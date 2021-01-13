@@ -1,4 +1,4 @@
-# youtube-dl-heroku-buildpack
+# heroku-buildpack-youtube-dl
 Currently WIP, may not work yet
 
 heroku buildpack that downloads and install the latest version of youtube-dl
