@@ -1,5 +1,6 @@
 #!/bin/sh
 
+echo "youtube-dl requires Python - please ensure it is installed before use."
 echo "Installing youtube-dl..."
 
 BUILD_DIR=$1
