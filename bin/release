@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "youtube-dl buildpack installed successfully"
+echo ""
