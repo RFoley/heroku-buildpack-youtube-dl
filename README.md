@@ -1,6 +1,5 @@
 # heroku-buildpack-youtube-dl
-Currently WIP, may not work yet
 
-heroku buildpack that downloads and install the latest version of youtube-dl
+A Heroku buildpack that downloads and install the latest version of youtube-dl.
 
-script code shamelessly copied from jonathanong/heroku-buildpack-ffmpeg-latest then modified for youtube-dl
+Shamelessly copied from jonathanong/heroku-buildpack-ffmpeg-latest & modified for youtube-dl.
