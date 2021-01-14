@@ -1,4 +1,5 @@
 #!/bin/sh
 
-echo "youtube-dl buildpack has no requirements"
+echo "----- youtube-dl "
+echo "youtube-dl requires Python - please ensure it is installed before use."
 exit 0
